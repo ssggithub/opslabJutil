@@ -15,6 +15,7 @@ public class ListTet {
 
         start = System.currentTimeMillis();
         for (String tmp : list) {
+            System.out.println(tmp);
         }
         end = System.currentTimeMillis();
         System.out.print("第一种方法运行时间:" + (end - start) + "(毫秒)\n");
