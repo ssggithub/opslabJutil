@@ -1,6 +1,9 @@
-package com.opslab.util.bean;
+package com.opslab.util.Bean;
 
 import com.opslab.util.StringUtil;
+import com.opslab.util.bean.BeanUtil;
+import com.opslab.util.bean.PropertyFilter;
+
 import junit.framework.TestCase;
 import com.opslab.temp.model.BusinessLog;
 import com.opslab.temp.model.Log;

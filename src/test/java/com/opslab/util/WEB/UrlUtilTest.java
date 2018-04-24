@@ -1,6 +1,8 @@
-package com.opslab.util.web;
+package com.opslab.util.WEB;
 
 import com.opslab.util.CharsetUtil;
+import com.opslab.util.web.UrlUtil;
+
 import junit.framework.TestCase;
 import org.junit.Test;
 
