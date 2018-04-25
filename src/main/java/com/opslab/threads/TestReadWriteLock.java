@@ -4,6 +4,11 @@ import java.util.Random;
 import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
+/**
+ * 简单的读写锁示例
+ * @author Administrator
+ *
+ */
 public class TestReadWriteLock {
 
 	public static void main(String[] args) {
