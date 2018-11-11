@@ -6,7 +6,7 @@
 
 ---
 #开发环境
-    Win7x64 && ubuntu14 && MacOS 22
+    Win7x64 && ubuntu14 && MacOS 1
     JDK1.7
     IDEA14
 
